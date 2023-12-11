@@ -1,0 +1,89 @@
+body{
+padding: 20px;
+margin: 10px;
+text-align: center;
+}
+header{
+    background-color: rgb(36, 3, 63);
+        height: 30px;
+        padding: 10px;
+        margin: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+    }
+a{
+    color: rgb(252, 241, 241);
+    text-decoration: none;
+}
+.one{
+    padding: 10px;
+    margin: 10px;
+    width: 75px;
+    height: 10px;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-left: 30px; 
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 15px;
+}
+h2{
+    color: rgb(34, 7, 77);
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+form{
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    align-self: center;
+}
+
+label{
+    color: rgb(56, 12, 90)119, 0, 255;
+    font-size: 20px;
+    font-weight: 100px;
+
+}
+input[type="text"]{
+    width: 250px;
+    height: 35px;
+    border: 1px solid rgb(224, 198, 198);
+    border-radius: 20px;
+    text-align: right;
+}
+input[type ="button"] {
+  width: 90px;
+    height: 30px;
+    border: 1px solid  rgb(58, 8, 73);
+    border-radius: 20px;
+    color:white;
+    font-size: 15px;
+    font-weight: 90;
+    background-color: rgb(33, 5, 73);
+}
+h4{
+    color: rgb(35, 5, 63);
+}
+img{
+    width: 50px;
+    height: 25px;
+}
+#two{
+    background-color: white;
+    color: rgb(36, 7, 63);
+}
+
